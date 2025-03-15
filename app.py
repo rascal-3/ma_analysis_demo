@@ -63,7 +63,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# KPMGのロゴやカラーを模したスタイル
+# 某社のロゴやカラーを模したスタイル
 st.markdown("""
 <div style="background-color: #003A70; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
     <h1 style="color: white; text-align: center;">M&A アナリティクス プラットフォーム</h1>
@@ -1127,7 +1127,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style="text-align: center; color: gray; font-size: 0.8em;">
-        © 2025 M&A Analytics Platform | Science & Technology Group Demo
+        © 2025 M&A Analytics Platform Demo
     </div>
     """,
     unsafe_allow_html=True
