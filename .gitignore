@@ -1,8 +1,9 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+data_cache/
 
 # C extensions
 *.so
@@ -181,4 +182,3 @@ __pycache__/
 *.pyd
 *.pyw
 *.pyz
->>>>>>> b398d92 (Initial Commit)
