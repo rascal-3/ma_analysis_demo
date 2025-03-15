@@ -2,3 +2,8 @@ matplotlib
 seaborn
 plotly
 yfinance
+streamlit
+numpy
+pandas
+scipy
+scikit-learn
